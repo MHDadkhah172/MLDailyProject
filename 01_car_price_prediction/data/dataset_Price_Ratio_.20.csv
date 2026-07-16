@@ -190,6 +190,7 @@ Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,O
 2013,0.2,0.65,24000,Petrol,Individual,Manual,1
 2008,0.2,0.787,50000,Petrol,Individual,Manual,0
 2015,0.18,0.32,35000,Petrol,Individual,Manual,0
+2008,0.17,0.52,500000,Petrol,Individual,Automatic,0
 2010,0.16,0.51,33000,Petrol,Individual,Manual,0
 2011,0.15,0.57,35000,Petrol,Individual,Manual,1
 2007,0.12,0.58,53000,Petrol,Individual,Manual,0
