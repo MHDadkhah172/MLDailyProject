@@ -17,7 +17,7 @@ Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,O
 2016,7.75,10.79,43000,Diesel,Dealer,Manual,0
 2015,7.25,10.79,41678,Diesel,Dealer,Manual,0
 2016,7.75,10.79,43000,Diesel,Dealer,Manual,0
-2015,3.25,5.09,35500,CNG,Dealer,Manual,0
+2015,3.25,5.09,35500,Petrol,Dealer,Manual,0
 2010,2.65,7.98,41442,Petrol,Dealer,Manual,0
 2016,2.85,3.95,25000,Petrol,Dealer,Manual,0
 2017,4.9,5.71,2400,Petrol,Dealer,Manual,0
@@ -34,7 +34,7 @@ Year,Selling_Price,Present_Price,Kms_Driven,Fuel_Type,Seller_Type,Transmission,O
 2014,4.95,7.49,39000,Diesel,Dealer,Manual,0
 2014,6.0,9.95,45000,Diesel,Dealer,Manual,0
 2014,5.5,8.06,45000,Diesel,Dealer,Manual,0
-2011,2.95,7.74,49998,CNG,Dealer,Manual,0
+2011,2.95,7.74,49998,Petrol,Dealer,Manual,0
 2015,4.65,7.2,48767,Petrol,Dealer,Manual,0
 2016,3.0,3.76,10079,Petrol,Dealer,Manual,0
 2003,2.25,7.98,62000,Petrol,Dealer,Manual,0
