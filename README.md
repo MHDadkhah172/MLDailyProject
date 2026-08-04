@@ -8,6 +8,7 @@ The projects herein prioritize **algorithmic logic and theoretical problem-solvi
 ## 📂 Repository Structure
 Each directory represents an independent, contained project:
 * `01_car_price-predict/` : Exploratory data analysis and predictive modeling for vehicular pricing.
+* `02_diabetes-prediction/` : Classification, EDA, and optimization experiments on imbalanced medical data using Gaussian Naive Bayes.
 * *(Upcoming projects will be appended chronologically)*
 
 ---
